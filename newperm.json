@@ -10,35 +10,5 @@
         "RoleName":  "Admin",
         "propagate":  "true",
         "Group":  "false"
-    },
-    {
-        "Principle":  "VSPHERE.LOCAL\\vsphere-webclient-80bc0889-5b4d-4f73-842c-b8316691b699",
-        "RoleName":  "Admin",
-        "propagate":  "true",
-        "Group":  "false"
-    },
-    {
-        "Principle":  "ESXLAB.LOCAL\\svc_vra",
-        "RoleName":  "Admin",
-        "propagate":  "true",
-        "Group":  "false"
-    },
-    {
-        "Principle":  "VSPHERE.LOCAL\\Administrators",
-        "RoleName":  "Admin",
-        "propagate":  "true",
-        "Group":  "true"
-    },
-    {
-        "Principle":  "VSPHERE.LOCAL\\test_usr",
-        "RoleName":  "Admin",
-        "propagate":  "true",
-        "Group":  "false"
-    },
-    {
-        "Principle":  "VSPHERE.LOCAL\\Administrator",
-        "RoleName":  "Admin",
-        "propagate":  "true",
-        "Group":  "false"
     }
 ]
